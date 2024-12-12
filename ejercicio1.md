@@ -1,4 +1,4 @@
-# Instalación y configuración inicial de Apache
+# Ejercicio 1: Instalación y configuración inicial de Apache
 ## Explicación:
 Apache es un servidor web que permite servir contenido a través de HTTP. En este ejercicio, aprenderás a instalarlo, verificar su estado y personalizar su configuración básica.
 
