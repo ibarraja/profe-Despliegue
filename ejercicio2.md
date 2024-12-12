@@ -1,4 +1,4 @@
-# Ejercicio 2 Gestión de módulos
+# Ejercicio 2: Gestión de módulos
 ## Explicación:
 Apache usa módulos para ampliar sus funcionalidades, como soporte para redirecciones o proxy. En este ejercicio, aprenderás a listar, habilitar y verificar módulos.
 
