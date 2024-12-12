@@ -1,4 +1,4 @@
-# Configuración de DocumentRoot
+# Ejercicio 3: Configuración de DocumentRoot
 ## Explicación:
 El DocumentRoot es la carpeta desde la cual Apache sirve archivos. Por defecto, es /var/www/html. En este ejercicio, aprenderás a cambiarla para usar una carpeta personalizada.
 
