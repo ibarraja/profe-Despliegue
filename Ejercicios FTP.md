@@ -12,9 +12,9 @@
 **2. Configuración Básica**
    - Modifica el archivo /etc/vsftpd.conf para permitir que los usuarios locales puedan subir y descargar archivos.
    - Reinicia el servicio y verifica que los cambios se aplican:
-    ```bash
-    sudo systemctl restart vsftpd
-    ```
+```bash
+sudo systemctl restart vsftpd
+```
 
 **3. Creación de Usuarios**
    - Crea un nuevo usuario llamado ftpuser y establece una contraseña.
