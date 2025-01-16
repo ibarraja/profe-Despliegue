@@ -5,9 +5,9 @@
 **1. Instalación de vsftpd**
    - Instala el servidor FTP vsftpd en una máquina Linux.
    - Verifica que el servicio está corriendo utilizando el siguiente comando:
-    ```bash
-    sudo systemctl status vsftpd
-    ```
+```bash
+sudo systemctl status vsftpd
+```
 
 **2. Configuración Básica**
    - Modifica el archivo /etc/vsftpd.conf para permitir que los usuarios locales puedan subir y descargar archivos.
