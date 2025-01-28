@@ -32,7 +32,7 @@ El objetivo de este proyecto es instalar, configurar y documentar un servidor de
 - Verificar los logs (`catalina.out`) para asegurar que el servidor y la aplicación se están ejecutando correctamente.
 
 ### **7. Documentación**
-- Crear un manual técnico en formato PDF que incluya:
+- Crear un manual técnico en formato MarkDown que incluya:
   - Introducción explicando qué es Apache Tomcat y para qué se utiliza.
   - Descripción del proceso de instalación y configuración.
   - Capturas de pantalla de cada paso (con un breve texto explicativo).
