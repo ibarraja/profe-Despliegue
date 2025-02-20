@@ -99,6 +99,9 @@ Determina si las siguientes afirmaciones son verdaderas o falsas, justificando t
    False # Justificación
    ```
 
+### **Entrega:**
+- Un documento en formato PDF con capturas de pantalla y explicaciones de cada paso realizado.
+- Código y configuraciones relevantes utilizadas en los ejercicios.
 ---
 
 
@@ -201,6 +204,40 @@ Determina si las siguientes afirmaciones son verdaderas o falsas, justificando t
    
    ```
 
+## **Ejercicio 4: Verdadero o Falso - Apache**
+Determina si las siguientes afirmaciones son verdaderas o falsas, justificando tu respuesta en caso de ser falsa:
+
+### 1. Los archivos de configuración de Apache suelen encontrarse en `/etc/apache2/` en distribuciones basadas en Debian.
+   *Respuesta*: 
+   ```py
+   True
+   False # Justificación
+   ```
+### 2.  Apache solo puede escuchar en el puerto 80 y no se puede cambiar a otro puerto.
+   *Respuesta*: 
+   ```py
+   True
+   False # Justificación
+   ```
+### 3.  El archivo `.htaccess` permite realizar configuraciones específicas sin modificar los archivos de configuración global de Apache.
+   *Respuesta*: 
+   ```py
+   True
+   False # Justificación
+   ```
+### 4.  Un servidor Apache sin HTTPS es completamente seguro si está configurado correctamente.
+   *Respuesta*: 
+   ```py
+   True
+   False # Justificación
+   ```
+### 5.  Los módulos de Apache pueden activarse y desactivarse sin necesidad de reiniciar el servicio.
+   *Respuesta*: 
+   ```py
+   True
+   False # Justificación
+   ```
+
 
 # **Tema - Configuración de un Servidor FTP**
 
@@ -275,6 +312,39 @@ Determina si las siguientes afirmaciones son verdaderas o falsas, justificando t
    
    ```
 
+## **Ejercicio 3: Verdadero o Falso - FTP**
+Determina si las siguientes afirmaciones son verdaderas o falsas, justificando tu respuesta en caso de ser falsa:
+
+### 1. FTP es un protocolo que permite la transferencia de archivos entre un cliente y un servidor.
+   *Respuesta*: 
+   ```py
+   True
+   False # Justificación
+   ```
+### 2.  `vsftpd` es un servidor FTP disponible en sistemas Linux y es conocido por su seguridad y eficiencia.
+   *Respuesta*: 
+   ```py
+   True
+   False # Justificación
+   ```
+### 3.  En modo activo, el servidor FTP inicia la conexión con el cliente.
+   *Respuesta*: 
+   ```py
+   True
+   False # Justificación
+   ```
+### 4.  FTPS y SFTP son exactamente lo mismo y funcionan de la misma manera.
+   *Respuesta*: 
+   ```py
+   True
+   False # Justificación
+   ```
+### 5.  Un usuario FTP puede ser restringido para que solo acceda a su propio directorio sin ver archivos de otros usuarios.
+   *Respuesta*: 
+   ```py
+   True
+   False # Justificación
+   ```
 
 # **Tema - Configuración de un Servidor Tomcat**
 
@@ -374,3 +444,9 @@ Tomcat Manager esta disponible en:
    True
    False # Justificación
    ```
+
+### **Entrega:**
+- Un documento en formato PDF con capturas de pantalla y explicaciones de cada paso realizado.
+- Configuraciones y comandos utilizados en cada ejercicio.
+
+Puedes cambiar el ejercicio 3 de cada Ficha por un ejercicio de verdadero-falso?
