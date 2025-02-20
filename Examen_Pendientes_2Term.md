@@ -163,17 +163,12 @@ Determina si las siguientes afirmaciones son verdaderas o falsas, justificando t
    
    ```
 
-### 5.  Configura Apache para que su directorio raíz sea una carpeta personalizada en lugar de la predeterminada.
+### 5. Modifica el mensaje de error 404 de Apache para mostrar una página personalizada.
 *Respuesta*:
    ```txt
    
    ```
-6. Modifica el mensaje de error 404 de Apache para mostrar una página personalizada.
-*Respuesta*:
-   ```txt
-   
-   ```
-7. Activa y desactiva el módulo mod_rewrite, luego configura una regla básica en .htaccess para redirigir una URL a otra.
+### 6. Activa y desactiva el módulo mod_rewrite, luego configura una regla básica en .htaccess para redirigir una URL a otra.
 *Respuesta*:
    ```txt
    
